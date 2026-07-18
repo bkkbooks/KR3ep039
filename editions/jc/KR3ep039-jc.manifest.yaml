@@ -23,12 +23,11 @@ assets:
   - {seq: 3, filename: KR3ep039_003-jc.yaml, hash: 'sha256:1c196054d596707d0b11c03652877c93d2067387f6f018d0b487e9c0cf27bbcf'}
   - {seq: 4, filename: KR3ep039_004-jc.yaml, hash: 'sha256:bf0bee96f16467a6d71655abf40e86d56031d10145b56a7bd71774ece9d0c4fc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep039_000-jc.markers.yaml, hash: 'sha256:80fbcb5ceabbf16a6f3dd2de9f38b13533a89afbc708f12a6ef34468783beef9'}
-  - {seq: 1, role: markers, filename: assets/KR3ep039_001-jc.markers.yaml, hash: 'sha256:1c695317d5fcd9b273ccd585f0262e8d314ec965d7ed73a165613da1de3f1190'}
-  - {seq: 2, role: markers, filename: assets/KR3ep039_002-jc.markers.yaml, hash: 'sha256:a609c13c1fb4446a023a8694f27f0f1a882712bfc89d8da7642541cd5d251969'}
-  - {seq: 0, role: markers, filename: assets/KR3ep039_000-jc.markers.yaml, hash: 'sha256:80fbcb5ceabbf16a6f3dd2de9f38b13533a89afbc708f12a6ef34468783beef9'}
-  - {seq: 3, role: markers, filename: assets/KR3ep039_003-jc.markers.yaml, hash: 'sha256:3a717860db6f14b694e7edf551d054267a6f5dc05f219d7c3cb51ac4224cfab7'}
-  - {seq: 4, role: markers, filename: assets/KR3ep039_004-jc.markers.yaml, hash: 'sha256:6c7a16760193455a871709841b8a73d6daeff99622839fca438269a1c34f1659'}
+  - {seq: 0, role: markers, filename: assets/KR3ep039_000-jc.markers.yaml, hash: 'sha256:9979abb50250a2627ab4ee45cf09f843d3caaea3a6fc3290cee873b789dfa266'}
+  - {seq: 1, role: markers, filename: assets/KR3ep039_001-jc.markers.yaml, hash: 'sha256:fca645220dc725deabf24c7508de031dbed43b2f77a9b831510e3aab2c98add0'}
+  - {seq: 2, role: markers, filename: assets/KR3ep039_002-jc.markers.yaml, hash: 'sha256:b41206686b5183cdc54f590a4fb5f9cd9db7e859b6d476ce2c8ca37301ab2ffa'}
+  - {seq: 3, role: markers, filename: assets/KR3ep039_003-jc.markers.yaml, hash: 'sha256:439538fae3a14369557a70c7f44a58f5d08a89609e799539174dd4cfe853be50'}
+  - {seq: 4, role: markers, filename: assets/KR3ep039_004-jc.markers.yaml, hash: 'sha256:24e97d83f91511291696626816773c9edf804262d26f855a1f46a0f88bf8805e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -620,4 +619,4 @@ table_of_contents:
   label: 皮膚病
   type: section
   level: 2
-hash: sha256:7ed2ea56180e0799f43c8f47b156a6fa522d9542c1161fcbc685469c3f438451
+hash: sha256:ca47c7a747b801348908b884f29777b974ad0b6b480586ce3c7d7720cff71c94
